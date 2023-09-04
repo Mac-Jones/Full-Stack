@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b341a7d.css",
+    "main.js": "/static/js/main.dd912046.js",
+    "static/media/billionaires.jpg": "/static/media/billionaires.b60202c55a8057c0bccc.jpg",
+    "static/media/mj-logo-primary-transparent.png": "/static/media/mj-logo-primary-transparent.f225a00b4ab591801412.png",
+    "static/media/hamburger.svg": "/static/media/hamburger.0b2381475eff03ff332333e855b1206c.svg",
+    "index.html": "/index.html",
+    "main.3b341a7d.css.map": "/static/css/main.3b341a7d.css.map",
+    "main.dd912046.js.map": "/static/js/main.dd912046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b341a7d.css",
+    "static/js/main.dd912046.js"
+  ]
+}
